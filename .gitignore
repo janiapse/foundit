@@ -1,3 +1,4 @@
 *.iml
 FIT.iml
 .idea/
+foundit-core/target/
